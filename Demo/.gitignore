@@ -1,0 +1,15 @@
+# Folder 
+/home/neuromancer/Desktop/devops/terraform/terraform/
+
+# Module directory
+**/.terraform
+
+.idea
+*.iml
+
+# Compiled files
+**/*.tfstate
+**/*.tfstate.backup
+**/*.terraform.tfstate*
+**/.terraform.lock.hcl
+**/.terraform.lock.hcl
